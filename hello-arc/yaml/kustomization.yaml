@@ -1,0 +1,4 @@
+resources:
+- hello_arc.yaml
+
+namespace: hello-arc
